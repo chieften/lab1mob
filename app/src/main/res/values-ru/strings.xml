@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Business Card</string>
-    <string name="full_name">Gogolev Anton</string>
-    <string name="position">Student</string>
-    <string name="group">B23-191-1</string>
+    <string name="app_name">Визитка</string>
+    <string name="full_name">Гоголев Антон</string>
+    <string name="position">Студент</string>
+    <string name="group">Б23-191-1</string>
     <string name="email">gogolevanton91@gmail.com</string>
     <string name="phone">+7 (950) 159-67-22</string>
     <string name="telegram">"@chieften"</string>
